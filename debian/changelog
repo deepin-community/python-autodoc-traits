@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+python-autodoc-traits (1.2.2-2) unstable; urgency=medium
 
-  * Initial release
+  * Source-only upload
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Julian Gilbey <jdg@debian.org>  Sun, 21 Jul 2024 13:52:01 +0100
+
+python-autodoc-traits (1.2.2-1) unstable; urgency=medium
+
+  * Initial upload (closes: #1073491)
+
+ -- Julian Gilbey <jdg@debian.org>  Mon, 01 Jul 2024 06:56:21 +0100

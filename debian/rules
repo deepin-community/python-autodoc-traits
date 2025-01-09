@@ -1,4 +1,8 @@
 #!/usr/bin/make -f
 
+#export DH_VERBOSE=1
+
+export PYBUILD_NAME = autodoc-traits
+
 %:
-	dh $@
+	dh $@ --buildsystem=pybuild
